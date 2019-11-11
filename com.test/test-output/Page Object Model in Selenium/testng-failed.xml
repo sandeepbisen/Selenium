@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Page Object Model in Selenium]">
+  <test name="Customer Details(failed)">
+    <classes>
+      <class name="test.com.test.TestDisplayCustomer">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="testValidCustomerDetails" invocation-numbers="0"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- test.com.test.TestDisplayCustomer -->
+    </classes>
+  </test> <!-- Customer Details(failed) -->
+</suite> <!-- Failed suite [Page Object Model in Selenium] -->

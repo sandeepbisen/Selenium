@@ -1,0 +1,6 @@
+1530087861403	geckodriver	INFO	geckodriver 0.18.0
+1530087861413	geckodriver	INFO	Listening on 127.0.0.1:15006
+1530087861882	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1530087863866	Marionette	INFO	Listening on port 55347
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown

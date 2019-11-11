@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!--fill the coode-->
+
+<suite name = "Page Object Model in Selenium">
+	<test name="Customer Details" preserve-order="true">
+		<classes>
+			<class name="test.com.test.TestCustomerForm"></class>
+			<class name="test.com.test.TestDisplayCustomer"></class>
+	</classes>
+	</test>
+
+</suite> 
